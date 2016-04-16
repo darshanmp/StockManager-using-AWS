@@ -1,0 +1,14 @@
+F:\Project\StockApp\StockApp\bin\Debug\StockApp.exe.config
+F:\Project\StockApp\StockApp\obj\Debug\StockApp.csprojResolveAssemblyReference.cache
+F:\Project\StockApp\StockApp\bin\Debug\StockApp.exe
+F:\Project\StockApp\StockApp\bin\Debug\StockApp.pdb
+F:\Project\StockApp\StockApp\bin\Debug\AWSSDK.dll
+F:\Project\StockApp\StockApp\bin\Debug\AWSSDK.pdb
+F:\Project\StockApp\StockApp\obj\Debug\StockApp.exe
+F:\Project\StockApp\StockApp\obj\Debug\StockApp.pdb
+F:\Courses\661\ProjectReport\Final\Stock-Manager\StockApp\bin\Debug\StockApp.exe.config
+F:\Courses\661\ProjectReport\Final\Stock-Manager\StockApp\obj\Debug\StockApp.exe
+F:\Courses\661\ProjectReport\Final\Stock-Manager\StockApp\obj\Debug\StockApp.pdb
+C:\Users\Darshan\Desktop\Stock-Manager-New\Stock-Manager\StockApp\bin\Debug\StockApp.exe.config
+C:\Users\Darshan\Desktop\Stock-Manager-New\Stock-Manager\StockApp\obj\Debug\StockApp.exe
+C:\Users\Darshan\Desktop\Stock-Manager-New\Stock-Manager\StockApp\obj\Debug\StockApp.pdb

@@ -1,0 +1,14 @@
+F:\Project\StockApp\ClientApp\bin\Debug\ClientApp.exe.config
+F:\Project\StockApp\ClientApp\bin\Debug\ClientApp.exe
+F:\Project\StockApp\ClientApp\bin\Debug\ClientApp.pdb
+F:\Project\StockApp\ClientApp\bin\Debug\AWSSDK.Core.dll
+F:\Project\StockApp\ClientApp\bin\Debug\AWSSDK.S3.dll
+F:\Project\StockApp\ClientApp\bin\Debug\AWSSDK.Core.xml
+F:\Project\StockApp\ClientApp\bin\Debug\AWSSDK.S3.xml
+F:\Project\StockApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+F:\Project\StockApp\ClientApp\obj\Debug\ClientApp.exe
+F:\Project\StockApp\ClientApp\obj\Debug\ClientApp.pdb
+F:\Project\StockApp\ClientApp\bin\Debug\StockApp.exe
+F:\Project\StockApp\ClientApp\bin\Debug\AWSSDK.dll
+F:\Project\StockApp\ClientApp\bin\Debug\StockApp.pdb
+F:\Project\StockApp\ClientApp\bin\Debug\AWSSDK.pdb
